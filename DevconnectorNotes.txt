@@ -1,0 +1,9 @@
+mlab devconnector, paul, paul22
+mongodb://paul:paul22@ds125181.mlab.com:25181/devconnector
+open bash terminak: ctrl ` 
+create folder: devconnector
+open with Code
+:npm init
+:npm install express mongoose passport passport-jwt jsonwebtoken body-parser bcryptjs validator --save
+
+In preferences, search prettier and set: prettier.isSingleQuote=true
